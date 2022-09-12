@@ -11,7 +11,7 @@
  *
  * Description: Positive or negative
  *
- * return: Always 0 if successful
+ * Return: Always 0 if successful
  */
 
 int main(void)
