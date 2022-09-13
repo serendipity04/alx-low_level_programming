@@ -1,5 +1,14 @@
 #include <stdio.h>
 
+/**
+ * main - Entry point
+ *
+ * Description: sizes
+ *
+ * Return: return o
+ */
+
+
 int main(void)
 
 {

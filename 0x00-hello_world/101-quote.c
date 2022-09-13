@@ -3,13 +3,9 @@
 #include <unistd.h>
 
 /**
-
  * main - Entry point
-
  *
-
  * Return: Always 0 if succesful
-
  */
 
 int main(void)
