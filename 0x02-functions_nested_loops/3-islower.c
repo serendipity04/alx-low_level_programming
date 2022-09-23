@@ -4,7 +4,7 @@
  * _islower - entry point
  *
  * Description: print lower value
- *
+ *@c: contains value to be compared
  * Return: 0
  */
 
