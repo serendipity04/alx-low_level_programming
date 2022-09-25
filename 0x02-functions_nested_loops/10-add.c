@@ -4,7 +4,7 @@
  * add - adds up two integers
  * @num1: first number
  * @num2: second number
- * 
+ *
  * Return: return of addition
  */
 
