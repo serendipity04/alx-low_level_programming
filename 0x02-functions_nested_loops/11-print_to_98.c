@@ -2,8 +2,10 @@
 #include <stdio.h>
 
 /**
- * print_to_98: prints values from an integer to 98
+ * print_to_98 - prints values from an integer to 98
+ * @n: integer to be printed to
  */
+
 
 void print_to_98(int n)
 {
