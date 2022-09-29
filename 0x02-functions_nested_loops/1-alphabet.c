@@ -3,22 +3,18 @@
 
 /**
  * print_alphabet - prints the alphabet
- * 
+ *
  * Description: prints the alphabet
- * 
+ *
  * Return: always 0
  */
 
-int main(void)
+void print_alphabet(void)
 {
-    char c = 'a';
-    char n = '\n';
-    while(; c <= 'z'; c ++)
-    {
-        _putchar(c);
-    }
+	char c;
+	char n = '\n';
 
-    _putchar(n);
-
-    return (0);
+	for (c = 'a'; c <= 'z'; c++)
+		_putchar(c);
+	_putchar(n);
 }
